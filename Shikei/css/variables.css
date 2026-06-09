@@ -1,0 +1,14 @@
+:root {
+    --color-primary: #E67E22;
+    --color-secondary: #1a1a1a;
+    --color-accent: #F39C12;
+    --color-bg: #2c2c2c;
+    --color-text: #ecf0f1;
+    --color-white: #FFFFFF;
+    --color-dark: #0d0d0d;
+    --estado-pendiente: #F39C12;
+    --estado-en-espera: #3498DB;
+    --estado-entregado: #27AE60;
+    --estado-cancelado: #E74C3C;
+    --font-main: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
